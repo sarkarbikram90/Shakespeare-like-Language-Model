@@ -52,3 +52,5 @@ You just recreated — on your laptop — the **core learning mechanism behind m
 Scaling this up gives models like GPT-3, PaLM, and LLaMA.
 
 Same idea. Just millions of times bigger.
+
+Happy LLMing...
